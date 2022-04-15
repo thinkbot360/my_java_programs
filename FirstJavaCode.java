@@ -1,6 +1,10 @@
 class FirstJavaCode
 {
-
+        FirstJavaCode()
+        {
+                 
+        }
+         
          public static void main(String...args)
          {
 
